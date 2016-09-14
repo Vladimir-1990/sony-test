@@ -6,6 +6,8 @@ if you don`t have laravel installation run
 
 composer global require "laravel/installer"
 
+When done create a vhost entry that points to /path-to-project/public
+
 
 
 # Laravel PHP Framework
