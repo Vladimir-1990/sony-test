@@ -1,3 +1,13 @@
+To start the project run
+
+composer install
+
+if you don`t have laravel installation run
+
+composer global require "laravel/installer"
+
+
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
